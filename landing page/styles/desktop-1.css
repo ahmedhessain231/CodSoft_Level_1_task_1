@@ -1,0 +1,1416 @@
+
+html {
+	font-size:62.5%;
+  display: flex;
+  justify-content: center;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  overflow: auto;
+  width: 70vw;
+}.desktop-1-JNa {
+  width: 100%;
+  overflow: auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-1-bg.png');
+}
+.desktop-1-JNa .auto-group-os3g-roQ {
+  width: 100%;
+  height: 222.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-two-V7c {
+  width: 151rem;
+  height: 74.3rem;
+  position: absolute;
+  left: 0;
+  top: 146.7rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-two-V7c .blob-haikei-6-1-Xpz {
+  width: 87.6rem;
+  height: 71.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-two-V7c .create-jewelry-that-can-be-worn-in-different-ways-or-adapted-to-various-styles-making-it-versatile-for-any-occasion-jRG {
+  width: 51.4rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 21.1rem;
+  top: 30.3rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #091e42;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-two-V7c .style-for-any-occasion-34a {
+  width: 39.1rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 13.1rem;
+  top: 24.1rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-two-V7c .rectangle-12-e4N {
+  width: 56.5rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 76.6rem;
+  top: 11.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 7rem 0 5rem 0;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-one-RzE {
+  width: 159.6rem;
+  height: 78.4rem;
+  position: absolute;
+  left: 0;
+  top: 71.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-one-RzE .blob-haikei-3-1-JYE {
+  width: 112.2rem;
+  height: 72.3rem;
+  position: absolute;
+  left: 47.4rem;
+  top: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-one-RzE .add-a-personal-touch-to-your-accessories-with-initials-birthstones-or-unique-engravings-making-each-piece-special-Zj4 {
+  width: 56.9rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 79.2rem;
+  top: 35rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #091e42;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-one-RzE .one-of-a-kind-personal-touch-Wni {
+  width: 52.8rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 80.3rem;
+  top: 26.2rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .feature-one-RzE .rectangle-9-A6a {
+  width: 56.5rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 11.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 7rem 0 5rem 0;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .hero-CJA {
+  width: 159.3rem;
+  height: 79.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .hero-CJA .frame-708-tgn {
+  width: 30.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 49.8rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7a8699;
+  border-radius: 1rem;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .hero-CJA .elevate-your-style-with-unique-handmade-jewelry-and-accessories-TtJ {
+  width: 62.2rem;
+  height: 15.7rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 19.2rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.09;
+  color: #000000;
+  font-family: Julius Sans One, 'Source Sans Pro';
+}
+.desktop-1-JNa .auto-group-os3g-roQ .hero-CJA .artisan-crafted-one-of-a-kind-pieces-for-a-style-statement-like-no-other-rvS {
+  width: 59.2rem;
+  height: 6.4rem;
+  position: absolute;
+  left: 8.7rem;
+  top: 39.7rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #091e42;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-JNa .auto-group-os3g-roQ .hero-CJA .embrace-the-joy-of-our-handmade-jewelry-and-accessories-and-become-part-of-the-delighted-customer-circle-today-T9Y {
+  width: 44.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 50.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #7a8699;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-JNa .auto-group-os3g-roQ .hero-CJA .result-1-H8a {
+  width: 95.7rem;
+  height: 79.5rem;
+  position: absolute;
+  left: 63.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn {
+  width: 144rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .rectangle-1-hxz {
+  width: 144rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .login-dLr {
+  width: 5.9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 113.9rem;
+  top: 2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .about-us-vqk {
+  width: 11rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 79.5rem;
+  top: 2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .blog-dEN {
+  width: 5.5rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69.2rem;
+  top: 2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .shop-Z82 {
+  width: 6.4rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 58.4rem;
+  top: 2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .rectangle-3-4aa {
+  width: 16.4rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 125.3rem;
+  top: 1.9rem;
+  background-color: #7a8699;
+  border-radius: 1.1rem;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .sign-up-Pcr {
+  width: 9rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 129rem;
+  top: 2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #f5f6f7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .home-VQz {
+  width: 7.3rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 46.3rem;
+  top: 2rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-os3g-roQ .header-Zrn .artistry-Dbt {
+  width: 19.7rem;
+  height: 10.3rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Lavishly Yours, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC {
+  width: 155.2rem;
+  height: 128.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 {
+  box-sizing: border-box;
+  padding: 2.6rem 2.2rem 3.7rem 1.9rem;
+  width: 144rem;
+  height: 53.6rem;
+  position: absolute;
+  left: 0;
+  top: 74.7rem;
+  display: flex;
+  align-items: center;
+border-bottom: solid 0.1rem #000000;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 {
+  margin: 0rem 11.4rem 4.525rem 0rem;
+  width: 44.4rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-rqzk-Sd4 {
+  margin: 0rem 0rem 4.1rem 1.5rem;
+  width: 27.6rem;
+  height: 7.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #dadbd6;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-wmuz-F4i {
+  width: 100%;
+  height: 31.3746rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-wmuz-F4i .frame-710-NQE {
+  margin: 10.7rem 5rem 12.375rem 0rem;
+  box-sizing: border-box;
+  padding: 1.25rem 3.204rem 1.258rem 2.801rem;
+  height: calc(100% - 23.0746rem);
+border-bottom: solid 0.1rem #000000;
+  background-color: #000000;
+  border-radius: 4.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-wmuz-F4i .frame-710-NQE .vector-SS2 {
+  width: 2.895rem;
+  height: 5.7916rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-wmuz-F4i .item-1-JUE {
+  box-sizing: border-box;
+  padding: 1.206rem 0rem 0rem 0rem;
+  width: 30.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-16-bg-ht2.png');
+border-bottom: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-wmuz-F4i .item-1-JUE .frame-709-pSa {
+  margin: 0rem 1.044rem 19.234rem 0rem;
+  width: 4.2656rem;
+  height: 4.2656rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-y5ga-ut2 .auto-group-wmuz-F4i .item-1-JUE .auto-group-nqqa-VHp {
+  width: 100%;
+  height: 6.6685rem;
+  text-align: center;
+  font-size: 2.6237rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L {
+  margin: 11.3rem 8.584rem 0rem 0rem;
+  width: 30.5156rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .item-2-jrN {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 31.5rem;
+  position: relative;
+  overflow: hidden;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .item-2-jrN .rectangle-19-4dk {
+  width: 30.5156rem;
+  height: 31.3906rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .item-2-jrN .rectangle-20-nJr {
+  width: 30.5156rem;
+  height: 6.6719rem;
+  position: absolute;
+  left: 0;
+  top: 24.8281rem;
+  background-color: #000000;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .item-2-jrN .add-to-cart-XXL {
+  width: 14rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 8.2031rem;
+  top: 26.5781rem;
+  text-align: center;
+  font-size: 2.625rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .item-2-jrN .frame-709-2iz {
+  width: 4.2656rem;
+  height: 4.2656rem;
+  position: absolute;
+  left: 25.1906rem;
+  top: 1.2063rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .auto-group-nawa-6ir {
+  margin: 0rem 8.716rem 0rem 7rem;
+  width: calc(100% - 15.7156rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .auto-group-nawa-6ir .rectangle-24-EaA {
+  margin-right: 4.6rem;
+  width: 1.9rem;
+  height: 1.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .auto-group-nawa-6ir .rectangle-23-vxn {
+  margin-right: 4.5rem;
+  width: 1.9rem;
+  height: 1.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .auto-group-8ex6-D7L .auto-group-nawa-6ir .rectangle-25-Txi {
+  width: 1.9rem;
+  height: 1.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .item-3-nzz {
+  margin: 11.6rem 5.77rem 4.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.483rem 1.313rem 1.483rem 24.777rem;
+  width: 30.3303rem;
+  height: calc(100% - 16.1rem);
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-21-bg.png');
+border-bottom: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .item-3-nzz .frame-712-g4n {
+  margin-bottom: 23.9945rem;
+  box-sizing: border-box;
+  padding: 0.817rem 0.817rem 1.023rem 1.023rem;
+  width: 100%;
+  height: 4.2397rem;
+border-bottom: solid 0.1rem #000000;
+  background-color: #dadbd6;
+  border-radius: 6.3052rem;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .item-3-nzz .frame-712-g4n .bxs-heart-bxS {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .frame-711-Fn6 {
+  margin: 22rem 0rem 17rem 0rem;
+  box-sizing: border-box;
+  padding: 1.258rem 2.801rem 1.25rem 3.204rem;
+  height: calc(100% - 39rem);
+border-bottom: solid 0.1rem #000000;
+  background-color: #000000;
+  border-radius: 4.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .accessories-r94 .frame-711-Fn6 .vector-jBU {
+  width: 2.895rem;
+  height: 5.7916rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .feature-three-BJN {
+  width: 155.2rem;
+  height: 74.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .feature-three-BJN .blob-haikei-7-1-HMQ {
+  width: 97.1rem;
+  height: 63.9rem;
+  position: absolute;
+  left: 58rem;
+  top: 6.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .feature-three-BJN .design-accessories-that-can-be-mixed-and-matched-allowing-wearers-to-create-their-own-unique-combinations-effortlessly-c8n {
+  width: 53.8rem;
+  height: 14.6rem;
+  position: absolute;
+  left: 80.1rem;
+  top: 32rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #091e42;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .feature-three-BJN .mix-and-match-fun-Evr {
+  width: 32.6rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 25.4rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .auto-group-ur8v-vmC .feature-three-BJN .rectangle-14-hZY {
+  width: 56.5rem;
+  height: 48.8rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 10.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 7rem 0 5rem 0;
+}
+.desktop-1-JNa .jewelry-mZQ {
+  box-sizing: border-box;
+  padding: 2.6rem 2.2rem 3.7rem 1.9rem;
+  width: 100%;
+  height: 53.6rem;
+  display: flex;
+  align-items: center;
+border-bottom: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y {
+  margin: 0rem 11.4rem 4.525rem 0rem;
+  width: 44.4rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-zu2s-dLi {
+  margin: 0rem 0rem 4.1rem 1.5rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 1.4rem 1.5rem;
+  width: 27.6rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+border-bottom: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #dadbd6;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-n2pe-S3G {
+  width: 100%;
+  height: 31.3746rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-n2pe-S3G .frame-710-afG {
+  margin: 10.7rem 5rem 12.375rem 0rem;
+  box-sizing: border-box;
+  padding: 1.25rem 3.204rem 1.258rem 2.801rem;
+  height: calc(100% - 23.0746rem);
+border-bottom: solid 0.1rem #000000;
+  background-color: #000000;
+  border-radius: 4.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-n2pe-S3G .frame-710-afG .vector-s8a {
+  width: 2.895rem;
+  height: 5.7916rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-n2pe-S3G .item-1-w8S {
+  box-sizing: border-box;
+  padding: 1.206rem 0rem 0rem 0rem;
+  width: 30.5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-16-bg.png');
+border-bottom: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-n2pe-S3G .item-1-w8S .frame-709-4Tx {
+  margin: 0rem 1.044rem 19.234rem 0rem;
+  width: 4.2656rem;
+  height: 4.2656rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-l8un-J3Y .auto-group-n2pe-S3G .item-1-w8S .auto-group-zafx-BoU {
+  width: 100%;
+  height: 6.6685rem;
+  text-align: center;
+  font-size: 2.6237rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn {
+  margin: 11.3rem 8.584rem 0rem 0rem;
+  width: 30.5156rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .item-2-dJ6 {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  height: 31.5rem;
+  position: relative;
+  overflow: hidden;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .item-2-dJ6 .rectangle-19-mv6 {
+  width: 30.5156rem;
+  height: 31.3906rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .item-2-dJ6 .rectangle-20-Wsg {
+  width: 30.5156rem;
+  height: 6.6719rem;
+  position: absolute;
+  left: 0;
+  top: 24.8281rem;
+  background-color: #000000;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .item-2-dJ6 .add-to-cart-4PQ {
+  width: 14rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 8.2031rem;
+  top: 26.5781rem;
+  text-align: center;
+  font-size: 2.625rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .item-2-dJ6 .frame-709-a6r {
+  width: 4.2656rem;
+  height: 4.2656rem;
+  position: absolute;
+  left: 25.1906rem;
+  top: 1.2063rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .auto-group-pxev-1CA {
+  margin: 0rem 8.716rem 0rem 7rem;
+  width: calc(100% - 15.7156rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .auto-group-pxev-1CA .rectangle-24-jdx {
+  margin-right: 4.6rem;
+  width: 1.9rem;
+  height: 1.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .auto-group-pxev-1CA .rectangle-23-fGi {
+  margin-right: 4.5rem;
+  width: 1.9rem;
+  height: 1.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .auto-group-xbqx-VSn .auto-group-pxev-1CA .rectangle-25-BF4 {
+  width: 1.9rem;
+  height: 1.9rem;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #d9d9d9;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .item-3-W2S {
+  margin: 11.6rem 5.77rem 4.5rem 0rem;
+  box-sizing: border-box;
+  padding: 1.483rem 1.313rem 1.483rem 24.777rem;
+  height: calc(100% - 16.1rem);
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-21-bg-ZAn.png');
+border-bottom: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .item-3-W2S .frame-712-CR4 {
+  margin-bottom: 23.9945rem;
+  width: 4.2397rem;
+  height: 4.2397rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .jewelry-mZQ .frame-711-qyp {
+  margin: 22rem 0rem 17rem 0rem;
+  box-sizing: border-box;
+  padding: 1.258rem 2.801rem 1.25rem 3.204rem;
+  height: calc(100% - 39rem);
+border-bottom: solid 0.1rem #000000;
+  background-color: #000000;
+  border-radius: 4.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.desktop-1-JNa .jewelry-mZQ .frame-711-qyp .vector-mca {
+  width: 2.895rem;
+  height: 5.7916rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-JNa .testimonials-Fne {
+  box-sizing: border-box;
+  padding: 2.6rem 6.1rem 4.5rem 3.8rem;
+  width: 100%;
+  height: 76.5rem;
+  display: flex;
+  column-gap: 7.4rem;
+  align-items: center;
+border-bottom: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .auto-group-sby8-jC2 {
+  width: 35.7rem;
+  height: 7.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d2d3d0;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL {
+  margin-left: 5.3rem;
+  box-sizing: border-box;
+  padding: 3.3rem 4rem 3.1rem 4.1rem;
+  width: 38rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+border-bottom: solid 0.1rem #000000;
+  background-size: 174.828% 39.924%;
+  background-position: 0.2599rem 32.5103rem;
+  background-image: url('../assets/rectangle-58-bg.png');
+  border-radius: 0.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .i-absolutely-love-the-unique-designs-from-this-boutique-the-craftsmanship-is-impeccable-and-each-piece-tells-a-story-the-customer-service-is-fantastic-too-KAE {
+  margin-bottom: 12.8rem;
+  max-width: 29.9rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .auto-group-mitg-9ux {
+  margin: 0rem 5.3rem 0rem 4.2rem;
+  width: calc(100% - 9.5rem);
+  height: 7.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .auto-group-mitg-9ux .rectangle-59-fNW {
+  margin-right: 2rem;
+  width: 7.5rem;
+  height: 7.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .auto-group-mitg-9ux .auto-group-r52v-aVU {
+  margin: 1rem 0rem 0.9rem 0rem;
+  height: calc(100% - 1.9rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .auto-group-mitg-9ux .auto-group-r52v-aVU .sarah-m-7kJ {
+  margin: 0rem 0rem 0.3rem 0.3rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .auto-group-mitg-9ux .auto-group-r52v-aVU .rectangle-71-1an {
+  width: 10.9rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .auto-group-4dgi-mW6 .frame-707-ayL .frame-707-ayL-bg {
+  width: 38rem;
+  height: 54.1rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:365a7dd0cd974034f1661d32a82758001018bd07');
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS {
+  margin: 8rem 0rem 6.7rem 0rem;
+  box-sizing: border-box;
+  padding: 3.3rem 3.95rem 4.1rem 4.05rem;
+  width: 38rem;
+  height: calc(100% - 15.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+border-bottom: solid 0.1rem #000000;
+  background-size: 174.828% 39.924%;
+  background-position: 0.2599rem 32.5103rem;
+  background-image: url('../assets/rectangle-55-bg.png');
+  background-repeat: no-repeat;
+  border-radius: 0.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  flex-shrink: 0;
+}
+.frame-706-PLS.first{
+  margin-top: 5rem !important;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS:last-child{
+  margin-bottom: 0rem;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .exquisite-accessories-extraordinary-attention-to-detail-in-handmade-jewelry-exceptional-customer-service-friendly-and-quick-to-address-any-inquiries-5yx {
+  margin-bottom: 11.8rem;
+  max-width: 30rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .auto-group-ym2n-kqC {
+  margin: 0rem 4.9rem 0rem 4.35rem;
+  width: calc(100% - 9.25rem);
+  height: 7.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .auto-group-ym2n-kqC .rectangle-57-V26 {
+  margin-right: 1.9rem;
+  width: 7.5rem;
+  height: 7.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .auto-group-ym2n-kqC .auto-group-gjcw-DTt {
+  margin: 1rem 0rem 0.7rem 0rem;
+  width: 11.35rem;
+  height: calc(100% - 1.7rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .auto-group-ym2n-kqC .auto-group-gjcw-DTt .sophia-r-wug {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .auto-group-ym2n-kqC .auto-group-gjcw-DTt .rectangle-71-5kz {
+  margin-right: 0.45rem;
+  width: 10.9rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-706-PLS .frame-706-PLS-bg {
+  width: 38rem;
+  height: 54.1rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:365a7dd0cd974034f1661d32a82758001018bd07');
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE {
+  margin-top: 15.3rem;
+  box-sizing: border-box;
+  padding: 3.3rem 3.85rem 3.9rem 3.95rem;
+  width: 38rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 174.828% 39.924%;
+  background-position: 0.2599rem 32.5103rem;
+  background-image: url('../assets/rectangle-60-bg.png');
+  border-radius: 0.8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d3d3d0;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .im-blown-away-by-the-creativity-each-accessory-feels-like-a-work-of-art-impeccable-craftsmanship-and-top-notch-customer-service-make-every-purchase-a-delight-2Zk {
+  margin-bottom: 8.6rem;
+  max-width: 30.2rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .auto-group-tzsc-f6v {
+  margin: 0rem 5.45rem 0rem 4.35rem;
+  width: calc(100% - 9.8rem);
+  height: 7.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .auto-group-tzsc-f6v .rectangle-61-xri {
+  margin-right: 2rem;
+  width: 7.5rem;
+  height: 7.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 8.2rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .auto-group-tzsc-f6v .auto-group-g89c-W7Y {
+  margin: 1rem 0rem 0.7rem 0rem;
+  width: 10.9rem;
+  height: calc(100% - 1.7rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .auto-group-tzsc-f6v .auto-group-g89c-W7Y .olivia-g-EJS {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .auto-group-tzsc-f6v .auto-group-g89c-W7Y .rectangle-71-jW6 {
+  width: 10.9rem;
+  height: 2.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .testimonials-Fne .frame-705-uEE .frame-705-uEE-bg {
+  width: 38rem;
+  height: 54.1rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:365a7dd0cd974034f1661d32a82758001018bd07');
+}
+.desktop-1-JNa .newsletter-gpe {
+  box-sizing: border-box;
+  border-bottom: 1px solid black;
+  padding: 2.5rem 3.8rem 7.7rem 3.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .newsletter-gpe .auto-group-ivdt-z4e {
+  margin-bottom: 5.5rem;
+  width: 35.7rem;
+  height: 7.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d2d3d0;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .newsletter-gpe .get-updated-of-latest-designs-and-upcoming-discounts-qqx {
+  margin-bottom: 4.2rem;
+  width: 100%;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .newsletter-gpe .auto-group-l5wn-xQn {
+  width: calc(100% - 74.6rem);
+  height: 5.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .newsletter-gpe .auto-group-l5wn-xQn .auto-group-42gv-V9p {
+  box-sizing: border-box;
+  width: 48.7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #aaa4a4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .newsletter-gpe .auto-group-l5wn-xQn .auto-group-3bk2-8Tg {
+  width: 13.1rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 0 1.3rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 {
+  box-sizing: border-box;
+  padding: 2.6rem 6.55rem 2.9rem 6.2rem;
+  width: 100%;
+  height: 32.4rem;
+  display: flex;
+  align-items: center;
+  border-bottom: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .support-GyC {
+  margin-right: 9.4rem;
+  width: 28rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .support-GyC .support-oTL {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .support-GyC .creative-streetimaginary-city-ic-98765united-artistry-infoartistryjewelscom-1-555-123-4567-YA2 {
+  max-width: 28rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-1-JNa .footer-BB4 .links-CVU {
+  margin: 0rem 8.8rem 7.2rem 0rem;
+  width: 17.4rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .links-CVU .quick-links-8e2 {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .links-CVU .privacy-policy-sLi {
+  margin: 0rem 0rem 2.1rem 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .links-CVU .terms-of-use-icE {
+  margin: 0rem 0rem 2.1rem 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .links-CVU .faqs-qwk {
+  margin-left: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .account-ADL {
+  margin: 0rem 10.95rem 2.1rem 0rem;
+  width: 15.8rem;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .account-ADL .account-hDG {
+  margin-bottom: 2.6rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .account-ADL .my-acccount-on6 {
+  margin-bottom: 2.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .account-ADL .login-register-x9C {
+  margin-bottom: 2.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .account-ADL .cart-6WJ {
+  margin-bottom: 2.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .account-ADL .shop-qin {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-JNa .footer-BB4 .icons-xoQ {
+  margin: 6.5rem 0rem 7.5rem 0rem;
+  box-sizing: border-box;
+  padding-bottom: 0.75rem;
+  width: 40.9rem;
+  height: calc(100% - 14rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .icons-xoQ .made-with-love-all-right-reserverd-45k {
+  margin-bottom: 4.65rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .icons-xoQ .auto-group-wvea-BRG {
+  margin: 0rem 7.5rem 0rem 6.7rem;
+  width: calc(100% - 14.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .icons-xoQ .auto-group-wvea-BRG .dashicons-facebook-6o8 {
+  margin: 0rem 7.15rem 0.1rem 0rem;
+  width: 4.4rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .icons-xoQ .auto-group-wvea-BRG .bi-linkedin-dHG {
+  margin-right: 6.25rem;
+  width: 4.4rem;
+  height: 4.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-JNa .footer-BB4 .icons-xoQ .auto-group-wvea-BRG .lets-icons-insta-fill-Nke {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
